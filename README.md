@@ -1,4 +1,4 @@
-#Final_Year_Project
+# Final_Year_Project
 # AI-Powered Customer Support Knowledge Assistant
 
 A web-based intelligent knowledge management system that uses Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to help businesses efficiently search internal documents and receive accurate, context-aware responses. The system combines vector databases for semantic search, LLM-based query classification (Customer Support/HR/Marketing), and a business intelligence dashboard to analyze query trends and identify knowledge gaps. Built with Python/FastAPI(TBD) backend, React(Next.js) frontend, and integrated with OpenAI/Anthropic(TBD) APIs.
